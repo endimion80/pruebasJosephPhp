@@ -21,7 +21,7 @@ _____________|','   ///_/-------------/   |
 
 </pre>
 # PruebasJosephPhp
-pruebas de código php
+## Pruebas de Código PHP
 
 you can find out Old files grouped in a folder with the same name.
 ## TODO
