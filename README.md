@@ -25,4 +25,4 @@ _____________|','   ///_/-------------/   |
 
 you can find out Old files grouped in a folder with the same name.
 ## TODO
-create a folder structure based in a predefined order.
+- create a folder structure based in a predefined order and try to justify it.
