@@ -1,4 +1,5 @@
 <?php
+
 /*
 a) Una función que reciba cinco números enteros como parámetros y muestre por pantalla el resultado de sumar los cinco números 
 (tipo procedimiento, no hay valor devuelto).
@@ -38,4 +39,5 @@ siendo númeroPi = 3.1416 aproximadamente.
     echo "El volumen es: " . volumen($radio = 5, $altura = 8);
 
 //https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=573:funciones-php-declaracion-y-llamadas-parametros-tipos-return-ejercicios-ejemplos-resueltos-cu00827b&catid=70&Itemid=193
+
 ?>
