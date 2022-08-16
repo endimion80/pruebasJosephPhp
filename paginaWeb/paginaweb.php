@@ -20,5 +20,4 @@
     echo("Buenas Tardes! ");
     }else{ echo "Buenas Noches! ".$nombre." ".$apellido." llevas un total de ".$suma." piezas de fruta."; } 
         
-    
 ?>
