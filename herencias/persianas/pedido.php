@@ -20,4 +20,5 @@
     echo "Grupo: ".$objEstor->getGrupo()."<br>";
     echo "Referencia: ".$objEstor->getReferencia();
 
+    
 ?>
