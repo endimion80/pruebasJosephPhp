@@ -54,4 +54,5 @@ $file = 'gente.json';
 file_put_contents($file, $json_string)
     or die("No se ha podido crear el archivo.");
 
+    
 ?>
