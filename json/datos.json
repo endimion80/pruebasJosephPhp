@@ -1,0 +1,21 @@
+{
+    "marcadores": [{
+            "latitude": 40.416875,
+            "longitude": -3.703308,
+            "city": "Sevilla",
+            "description": "Puerta del Sol"
+        },
+        {
+            "latitude": 40.417438,
+            "longitude": -3.693363,
+            "city": "Barcelona",
+            "description": "Paseo del Prado"
+        },
+        {
+            "latitude": 40.407015,
+            "longitude": -3.691163,
+            "city": "Madrid",
+            "description": "Estación de Atocha"
+        }
+    ]
+}
