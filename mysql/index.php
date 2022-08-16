@@ -37,5 +37,4 @@
         die("Error al crear la tabla: " . $conexion->error);
 }
 
-
 ?>

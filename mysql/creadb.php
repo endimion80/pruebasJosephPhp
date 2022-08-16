@@ -22,4 +22,5 @@
         die("Error al crear la base de datos: " . $conexion->error);
     }
 
+    
 ?>
