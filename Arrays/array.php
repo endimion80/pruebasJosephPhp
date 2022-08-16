@@ -11,5 +11,6 @@
     ];
     echo("Ahora no esta vacio, tiene 4 elementos.")."<br/>";
     var_dump($miarray);
+
 ?>
 
